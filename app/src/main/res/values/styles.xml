@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="ShapeAppearance.AllButtons" parent="ShapeAppearance.Material3.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">5dp</item> <!-- Radius değeri burada belirlenir -->
+    </style>
+
+</resources>
+

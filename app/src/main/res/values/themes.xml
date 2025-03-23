@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PdfOkuyucu" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/my_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/my_secondary</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorTertiary">@color/my_tertiary</item>
+        <item name="rippleColor">@color/my_ripple</item>
+        <item name="android:colorControlHighlight">@color/my_ripple</item>
+    </style>
+
+    <style name="Theme.PdfOkuyucu" parent="Base.Theme.PdfOkuyucu" />
+</resources>

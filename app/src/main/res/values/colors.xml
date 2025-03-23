@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="my_primary">#D1293D78</color>
+    <color name="my_secondary">#03DAC6</color>
+    <color name="my_tertiary">#3700B3</color>
+    <color name="my_ripple">#3700B340</color>
+    <color name="my_text">#E0E0E0</color>
+    <color name="splashBackgroundColor">#1C1C1C</color>
+</resources>
